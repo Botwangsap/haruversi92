@@ -1,11 +1,12 @@
 {
     "ownerNumber": ["66652963765@s.whatsapp.net","66654866905@s.whatsapp.net"],
-    "ownerName": "BotWhatsapp By AnggaKz😸😽🐸",
+    "ownerName": "Bot WhatsApp By AnggaKz🔥😍🥰😸",
     "instagram" : "https://www.instagram.com/anggatzi123",
-    "botName": "Lisabotz-MD❤️🌷🍒",
+    "botName": "Lisabotz-MD😍🥰",
     "footer": "https://www.instagram.com/anggatzi123",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
@@ -18,6 +19,6 @@
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 100
+        "user": 15
     }
 }
